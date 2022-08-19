@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EqC-yFFYbkS62JxLmdMszw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.google.com/" DesignTimeRectangle="642, 413, 652, 46" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='gLFyf gsfi' aaname='Rechercher' /&gt;" Guid="fabb1131-2c2c-44d7-9340-7f9c1f0464b7" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAApAAAAAyCAYAAADr/uucAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAEASURBVHhe7dYxDQAgEAAxpEDy/i2CBW7vUA9d+8wFAIBfAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQCKQAAAkAgkAQDD3AR7yNu+dMsUwAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google' /&gt;" SearchSteps="Selector" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="41503847a88c6481f500202efdbb6848.png" xmlns="">0N3g17wXh00eZ4po31PZQfQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "5mwXnqlMOEe9T6TiGEAkLA",
+  "Reference": "MHMiJxfQFEOchsiwskADSA/5mwXnqlMOEe9T6TiGEAkLA",
+  "ParentRef": "MHMiJxfQFEOchsiwskADSA/3k2PkjjISEGqhdHIedLtEg",
+  "Name": "searchBar",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-08-19T03:30:20.234654Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-08-19T03:31:25.1364643Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
